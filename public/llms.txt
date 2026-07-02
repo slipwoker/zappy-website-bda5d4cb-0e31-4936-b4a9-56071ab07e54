@@ -1,0 +1,109 @@
+# ToyStacey cookis n' cakes — Generative Engine Optimization Map
+
+> An online store specializing in cakes and sweets, focused on selling baked goods and confectionery products directly to customers through a digital storefront.
+
+---
+
+## Pages
+
+### בית
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app
+חנות אונליין לעוגות, קאפקייקים וממתקים בעבודת יד. טעמים עשירים, עיצובים מרהיבים ומשלוח עד הבית. הזמינו עכשיו והפכו כל יום למתוק במיוחד!
+
+### אודות
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/about
+הכירו את המסע שלנו באפייה – מתשוקה לעוגות ועד ליצירת קאפקייקים וממתקים שכבשו אלפי לקוחות. קראו עוד על החזון והאהבה שמניעים אותנו.
+
+### אירועים
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/celebrations
+עוגות מעוצבות, קאפקייקים צבעוניים וממתקים מותאמים אישית לימי הולדת, חתונות ואירועים עסקיים. תכננו את האירוע המושלם עם המתוקים שלנו!
+
+### גלריה
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/gallery
+גלריה עשירה של עוגות, קאפקייקים וממתקים שעשינו ללקוחות. קבלו השראה לעיצוב הבא שלכם ובואו לראות איך אנחנו הופכים סוכר לאומנות.
+
+### צור קשר
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/contact
+מוכנים להזמין עוגות, קאפקייקים או ממתקים? מלאו פרטים, שלחו הודעה ואנו נחזור אליכם במהירות עם הצעה מותאמת אישית שתעלה חיוך על הפנים.
+
+### Products
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/products
+המוצרים שלנו - ToyStacey cookis n' cakes
+
+### Cart
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/checkout
+תשלום
+
+### Login
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/product/:slug
+פרטי המוצר - ToyStacey cookis n' cakes
+
+### Category
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/category/:slug
+מוצרים - ToyStacey cookis n' cakes
+
+### תודה רבה
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/thank-you
+ToyStacey cookis n' cakes - תודה רבה
+
+## Legal & Policy
+
+### Privacy Policy
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ToyStacey cookis n' cakes
+An online store specializing in cakes and sweets, focused on selling baked goods and confectionery products directly to customers through a digital storefront.
+
+## Target Audience
+- חובבי גורמה אונליין
+- הורים לחגיגות
+- מחפשי מתנות עסקיות
+- נערים וילדים
+
+## Industry
+Bakery & Confectionery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/sitemap.xml
+- Robots: https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/llms-full.txt
+- Products (JSON): https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/products.json
+- Products (Google Merchant RSS): https://toystacey-cookis-n-cakes-bda5d4cb.zappy5.app/product-feed.xml
